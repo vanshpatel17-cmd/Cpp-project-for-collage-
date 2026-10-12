@@ -1,6 +1,0 @@
-CS301|Object Oriented Programming C++|4|30|F101|S101,S102,S104
-CS302|Data Structures & Algorithms|4|25|F102|S103
-CS303|Database Management Systems|3|20|F101|S101
-CS304|Computer Networks|3|20|F103|
-CS305|Cyber Security Fundamentals|4|15|F102|S101
-CS306|Machine Learning|4|20|F101|
