@@ -1,0 +1,4 @@
+F101|Dr. Rajesh Varma|rajesh.v@indusuni.ac.in|9845678901|CSE|Professor
+F102|Prof. Sneha Joshi|sneha.j@indusuni.ac.in|9856789012|Cyber Security|Associate Professor
+F103|Prof. Amit Dave|amit.d@indusuni.ac.in|9867890123|IT|Assistant Professor
+F104|Dr. Meena Rao|meena.r@indusuni.ac.in|9877001122|CSE|Associate Professor
