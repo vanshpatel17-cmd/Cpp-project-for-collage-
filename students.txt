@@ -1,0 +1,5 @@
+S101|Vansh Patel|vansh.p@indusuni.ac.in|9876543210|3|Cyber Security|11|24
+S102|Priya Sharma|priya.s@indusuni.ac.in|9812345678|3|CSE|4|24
+S103|Rahul Mehta|rahul.m@indusuni.ac.in|9823456789|3|IT|4|24
+S104|Neha Patel|neha.p@indusuni.ac.in|9834567890|3|CSE|4|24
+S105|Amit Patel|amit.p@indusuni.ac.in|9899112233|3|CSE|0|24
